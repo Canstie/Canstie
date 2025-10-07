@@ -33,8 +33,4 @@
 
 ###
 
-<h2 align="left">Use IDEs or tools</h2>
-
-###
-
 
