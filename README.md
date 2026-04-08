@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Canstie and I'm a colloige student.</p>
+<p align="left">My name is Canstie</p>
 
 ###
 
